@@ -22,7 +22,7 @@ function App() {
 
        <Trans i18nKey="message">
          <p>
-            Hello, Good Morning!
+             Good Morning !!
         </p>
       </Trans>
     </div>
